@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Code5Push</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ok">SUBMIT</string>
+    <string name="enter_location_hint">Enter location</string>
+</resources>
